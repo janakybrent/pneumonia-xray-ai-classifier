@@ -40,7 +40,8 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 
 1. Open the notebook in Colab
 2. Upload your `kaggle.json` (for dataset access)
-3. Run all cells!
+3. To run this in Google Colab, you do not need to download the dataset locally. The notebook will download it for you using the Kaggle API.
+4. Run all cells!
 
 👉 [Open in Google Colab] https://colab.research.google.com/drive/1xgLQGL2UdhDOIyphlVWcS8XfNBZLrcm6#scrollTo=0WEB6MrNjUSI 
 
